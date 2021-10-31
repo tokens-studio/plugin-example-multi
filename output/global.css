@@ -1,6 +1,17 @@
 .global-theme {
           --colors-black: #171717;
   --colors-white: #ffffff;
+  --colors-red-50: #FFF5F7;
+  --colors-red-100: #fce8ec;
+  --colors-red-200: #f9d0d9;
+  --colors-red-300: #f2a2b3;
+  --colors-red-400: #e95c7b;
+  --colors-red-500: #df1642;
+  --colors-red-600: #9c0f2e;
+  --colors-red-700: #59091a;
+  --colors-red-800: #2d040d;
+  --colors-red-900: #160207;
+  --colors-red-950: #100105;
   --colors-blue-50: #eceefe;
   --colors-blue-100: #d8ddfd;
   --colors-blue-200: #b1bafb;
